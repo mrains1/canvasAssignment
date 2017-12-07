@@ -1,0 +1,88 @@
+body {
+    font-family: Avenir;
+    background-color: #333;
+
+}
+
+header {
+    background: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 1%;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 98%;
+}
+
+h2{
+    padding-left: 1%;
+    margin-bottom: 0;
+}
+
+#mainContent {
+    background: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 1%;
+    width: 98%;
+    margin: auto;
+}
+
+p {
+    padding: 1%;
+}
+
+.description {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.detailsTitle {
+    display: block;
+    font-weight: bold;
+}
+
+.details {
+    display: block;
+}
+
+h1{
+    color: #46166B;
+    font-size: 500%;
+    display: inline;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #46166B;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #DB9F11;
+}
+
+#secondlist {
+    background-color: white;
+}
+
+img{
+    display: inline;
+    padding-right: 20%;
+    padding-top: 1%;
+    padding-left: 1%;
+}
